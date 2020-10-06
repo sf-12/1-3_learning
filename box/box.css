@@ -1,0 +1,21 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  /* 背景色 */
+  background-color: red;
+  /* 外側余白 */
+  margin: 30px;
+  /* 内側余白 */
+  padding: 30px;
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  /* 背景色 */
+  background-color: blue;
+  /* 枠線 */
+  border: 5px solid yellow;
+  /* 外側余白 */
+  margin: 5px;
+}
